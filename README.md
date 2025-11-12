@@ -7,16 +7,16 @@ Also, since the waveform is *denoised* to obtain a *processed* waveform, medical
 
 ## Frequency filtered
 
-<img src = images/freq-d.PNG width = 400>
+<img src = ./freq-d.PNG width = 400>
 
 ## Time filtered
 
-<img src = images/time-d.PNG width = 400>
+<img src = ./time-d.PNG width = 400>
 
 ## Heart rate calculation via peaks
 
-<img src = images/heart-rate.PNG width = 400>
+<img src = ./heart-rate.PNG width = 400>
 
 ## Number of heart peaks and calculated heart rate
 
-<img src = images/result.png width = 400>
+<img src = ./result.png width = 400>
